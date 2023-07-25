@@ -53,7 +53,7 @@ var configs = [{
                 variable: true
             },
             {
-                content: '李国强',
+                content: '刘光军',
                 font: '"Ma Shan Zheng"',
                 size: 50,
                 coord: {
@@ -67,7 +67,7 @@ var configs = [{
                 variable: false
             },
             {
-                content: '韩梅梅',
+                content: '顾月月',
                 font: '"Ma Shan Zheng"',
                 size: 50,
                 coord: {
@@ -93,7 +93,7 @@ var configs = [{
                 variable: false
             },
             {
-                content: '2022年5月3号 12:00',
+                content: '2022年2月12号 12:00',
                 font: '"Noto Sans SC"',
                 size: 20,
                 coord: {
@@ -211,7 +211,7 @@ var configs = [{
                 variable: false
             },
             {
-                content: '2022年5月3号 12:00',
+                content: '2022年2月12号 12:00',
                 font: '"Noto Sans SC"',
                 size: '30',
                 coord: {
@@ -329,7 +329,7 @@ var configs = [{
                 variable: false
             },
             {
-                content: '2022年5月3号 12:00 黄金大酒店 9 楼贵宾厅',
+                content: '2022年2月12号 12:00 黄金大酒店 9 楼贵宾厅',
                 font: '"Noto Sans SC"',
                 size: '30',
                 coord: {
